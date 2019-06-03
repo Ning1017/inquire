@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../flasky" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gskg-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kg_application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kg_meta_data_management" vcs="Git" />
+  </component>
+</project>

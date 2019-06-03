@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/flask.iml" filepath="$PROJECT_DIR$/.idea/flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_test/.idea/flask_test.iml" filepath="$PROJECT_DIR$/../flask_test/.idea/flask_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flasky/.idea/flasky.iml" filepath="$PROJECT_DIR$/../flasky/.idea/flasky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gskg-service/.idea/gskg-service.iml" filepath="$PROJECT_DIR$/../gskg-service/.idea/gskg-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kg_application/.idea/kg_application.iml" filepath="$PROJECT_DIR$/../kg_application/.idea/kg_application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kg_meta_data_management/.idea/kg_meta_data_management.iml" filepath="$PROJECT_DIR$/../kg_meta_data_management/.idea/kg_meta_data_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
